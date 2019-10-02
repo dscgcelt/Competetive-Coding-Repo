@@ -13,3 +13,4 @@ Head over to our official website - https://dscgcelt.github.io
 ### DSC-GCELT Maintainers
 
 * [Jaideep Prasad](https://github.com/jddeep)
+* [Rajat Kumar Gupta](https://github.com/knightcube)
