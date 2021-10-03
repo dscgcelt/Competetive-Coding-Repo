@@ -42,7 +42,6 @@ class Solution
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
 		Queue q = new Queue(5);
 		System.out.println(q.peekFirst());
 		System.out.println(q.peekLast());
