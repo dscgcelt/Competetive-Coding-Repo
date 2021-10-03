@@ -34,7 +34,6 @@ class Solution
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
 		MyHashMap<String, Integer> map = new MyHashMap<>(4);
 		map.put("Wednesday", 3);
 		map.put("Tuesday", 5);
