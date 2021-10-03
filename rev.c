@@ -14,7 +14,8 @@ int main()
 	for(i=0;i<num/2;i++)
 	{
 		int temp=arr[i];
-		arr[i]=arr[num-i-1];//swapping
+		//swapping in place using 3rd variable
+		arr[i]=arr[num-i-1];
 		arr[num-i-1]=temp;
 	}
 	for(i = 0; i < num; i++)
